@@ -15,7 +15,7 @@
   + 6 is LAYING
 
  the other variable are the mesurement with MEAN and STD
-
+ 
 3. tBodyAccMEANX
 4. tBodyAccMEANY
 5. tBodyAccMEANZ
