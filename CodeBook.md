@@ -14,7 +14,7 @@
   + 5 is STANDING
   + 6 is LAYING
 
- the other variable are the mesurement with mean and std
+ the other variable are the mesurement with MEAN and STD
 
 3. tBodyAccMEANX
 4. tBodyAccMEANY
@@ -43,42 +43,42 @@
 27. tBodyGyroJerkMEANX
 28. tBodyGyroJerkMEANY
 29. tBodyGyroJerkMEANZ
-tBodyGyroJerkSTDX
-tBodyGyroJerkSTDY
-tBodyGyroJerkSTDZ
-tBodyAccMagMEAN
-tBodyAccMagSTD
-tGravityAccMagMEAN
-tGravityAccMagSTD
-tBodyAccJerkMagMEAN
-tBodyAccJerkMagSTD
-tBodyGyroMagMEAN
-tBodyGyroMagSTD
-tBodyGyroJerkMagMEAN
-tBodyGyroJerkMagSTD
-fBodyAccMEANX
-fBodyAccMEANY
-fBodyAccMEANZ
-fBodyAccSTDX
-fBodyAccSTDY
-fBodyAccSTDZ
-fBodyAccJerkMEANX
-fBodyAccJerkMEANY
-fBodyAccJerkMEANZ
-fBodyAccJerkSTDX
-fBodyAccJerkSTDY
-fBodyAccJerkSTDZ
-fBodyGyroMEANX
-fBodyGyroMEANY
-fBodyGyroMEANZ
-fBodyGyroSTDX
-fBodyGyroSTDY
-fBodyGyroSTDZ
-fBodyAccMagMEAN
-fBodyAccMagSTD
-fBodyBodyAccJerkMagMEAN
-fBodyBodyAccJerkMagSTD
-fBodyBodyGyroMagMEAN
-fBodyBodyGyroMagSTD
-fBodyBodyGyroJerkMagMEAN
-fBodyBodyGyroJerkMagSTD
+30. tBodyGyroJerkSTDX
+31. tBodyGyroJerkSTDY
+32. tBodyGyroJerkSTDZ
+33. tBodyAccMagMEAN
+34. tBodyAccMagSTD
+35. tGravityAccMagMEAN
+36. tGravityAccMagSTD
+37. tBodyAccJerkMagMEAN
+38. tBodyAccJerkMagSTD
+39. tBodyGyroMagMEAN
+40. tBodyGyroMagSTD
+41. tBodyGyroJerkMagMEAN
+42. tBodyGyroJerkMagSTD
+43. fBodyAccMEANX
+44. fBodyAccMEANY
+45. fBodyAccMEANZ
+46. fBodyAccSTDX
+47. fBodyAccSTDY
+48. fBodyAccSTDZ
+49. fBodyAccJerkMEANX
+50. fBodyAccJerkMEANY
+51. fBodyAccJerkMEANZ
+52. fBodyAccJerkSTDX
+53. fBodyAccJerkSTDY
+54. fBodyAccJerkSTDZ
+55. fBodyGyroMEANX
+56. fBodyGyroMEANY
+57. fBodyGyroMEANZ
+58. fBodyGyroSTDX
+59. fBodyGyroSTDY
+60. fBodyGyroSTDZ
+61. fBodyAccMagMEAN
+62. fBodyAccMagSTD
+63. fBodyBodyAccJerkMagMEAN
+64. fBodyBodyAccJerkMagSTD
+65. fBodyBodyGyroMagMEAN
+66. fBodyBodyGyroMagSTD
+67. fBodyBodyGyroJerkMagMEAN
+68. fBodyBodyGyroJerkMagSTD
