@@ -7,10 +7,10 @@
 1. SubjectID : Each row identifies the subject who performed the activity for average each window sample. Its range is from 1 to 30. 
 
 2. ActivityID : There are 6 different Activities named from 1 to 6.
-  + 1  WALKING
-  + 2  WALKING_UPSTAIRS
-  + 3  WALKING_DOWNSTAIRS
-  + 4  SITTING
-  + 5  STANDING
-  + 6  LAYING
+  + 1 is WALKING
+  + 2 is WALKING_UPSTAIRS
+  + 3 is WALKING_DOWNSTAIRS
+  + 4 is SITTING
+  + 5 is STANDING
+  + 6 is LAYING
 
