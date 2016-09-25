@@ -1,9 +1,9 @@
 # Course3Assigment1
+## There is 180 records with 68 columns in the tidydataset
+#### Each row identifies the subject who performed each activity for average each window sample
 
-## The variables in tidydataset.txt:
-
-### There is 180 records with 68 columns
- 
+### The variables in tidydataset.txt:
+  
 1. SubjectID : Each row identifies the subject who performed the activity for average each window sample. Its range is from 1 to 30. 
 
 2. ActivityID : There are 6 different Activities named from 1 to 6.
